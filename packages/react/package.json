@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@lemos-ds-system/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@lemos-ds-system/eslint-config": "*",
+    "@lemos-ds-system/tokens": "*",
+    "@lemos-ds-system/ts-config": "*",
     "@types/react": "^18.2.18",
     "@types/react-dom": "^18.2.7",
     "react": "^18.2.0",
