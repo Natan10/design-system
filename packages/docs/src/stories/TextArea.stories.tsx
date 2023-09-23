@@ -1,5 +1,5 @@
 import { Meta, StoryObj } from '@storybook/react'
-import { Box, TextArea, TextAreaProps } from '@ignite-ui/react'
+import { Box, TextArea, TextAreaProps } from '@lemos-ds-system/react'
 
 export default {
   title: 'Form/TextArea',
